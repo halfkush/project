@@ -1,22 +1,26 @@
-# project
+# portfolio project
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
         <meta name="description" content="" />
         <meta name="author" content="" />
         <title>WILFRED KURIA Resume</title>
-        <link rel="icon" type="image/x-icon" href="assets/img/profpic.jpg" />
+        <link rel="icon" type="image/x-icon" href="assets/img/profpic.jpg"/>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://www.youtube.com/watch?v=hnjHCmaUVPg&ab_channel=OnlineTutorials" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+
+        
     </head>
     <body id="page-top">
+       
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
@@ -27,7 +31,8 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+                    
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience  </a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
@@ -44,18 +49,39 @@
                         WILFRED
                         <span class="text-primary">KURIA</span>
                     </h1>
-                    <div class="subheading mb-5">
-                        105476-00100 NAIROBI, KENYA
-                        <a href="mailto:name@email.com">wkkimata@gmail.com</a>
-                    </div>
-                    <h2>Techie</h2>
-                    <p class="lead mb-5">An ICT professional in the field of support technician and network communication. Determined to bring tailored unified communication solutions to businesses and make life easier through technology.
-                         I am an industrious person with knowledge in business information technology ready to work and give back to the organization. My core competences are integrity, confidentiality and accountability. My main aim is to be able to gain adequate experience and skills needed so as to facilitate achievement of organization’s objective thus enhancing its growth.
-                         <br>
-                        <a target="_blank" class="social-icon" href="linkedin.com/in/wilfred-kimata-548991203"><i class="fab fa-linkedin-in"></i></a>
+                    <div class="Contact Info">
+                       <h3 class ="title">Contact Info</h3> 
+                       <ul>
+                        <li>
+                            <span class="icon"><i class="fa fa-globe" aria-hidden="true"></i> </span>
+                            <span class="text">www.mywebsite.com</span>
+                        
+                        </li>
+                        <li>
+                            <span class="icon"><i class ="fa fa-phone" aria-hidden="true"></i> </span>
+                            <span class="text">+254702795881</span>
+                        
+                        </li>
+                        <li> 
+                            <span class="icon"><i class ="fa fa-map-marker" aria-hidden="true"></i> </span>
+                            <span class="text">105476-00100 NAIROBI, KENYA</span>
+                        </li>
+                        <li>
+                            <a target="_blank" class="social-icon" href="linkedin.com/in/wilfred-kimata-548991203"><i class="fab fa-linkedin-in"></i></a>
                         <a target="_blank" class="social-icon" href="https://github.com/halfkush"><i class="fab fa-github"></i></a>
                         <a target="_blank" class="social-icon" href="https://https://twitter.com/home"><i class="fab fa-twitter"></i></a>
 <!--                    <a class="social-icon" href="#!"><i class="fab fa-facebook-f"></i></a>-->
+                        </li>
+                       </ul>
+                    </div>
+                    <div class="subheading mb-5">
+                     <a href="mailto:name@email.com"><i class ="fa fa-envelope" aria-hidden="true"></i>wkkimata@gmail.com</a>
+                    </div>
+                    <h2>Techie <img src="assets/img/tech.jpg"></h2>
+                    <p class="lead mb-5">An ICT professional in the field of support technician and network communication. Determined to bring tailored unified communication solutions to businesses and make life easier through technology.
+                         I am an industrious person with knowledge in business information technology ready to work and give back to the organization. My core competences are integrity, confidentiality and accountability. My main aim is to be able to gain adequate experience and skills needed so as to facilitate achievement of organization’s objective thus enhancing its growth.
+                         <br>
+                        
                     </p>
                     </div>
                 </div>
@@ -71,7 +97,7 @@
                             <div class="subheading mb-3">ICT SUPPORT ENGINEER</div>
                             <p>Technical support & logging support calls.<br>User support and training of interns/users.<br>F.I.D.S(Flight information display system) management.</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">September 2021 - December 2021</span></div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2021-</span></div>
                     </div>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
@@ -145,7 +171,7 @@
             <!-- Skills-->
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
+                    <h2 class="mb-5">Skills<img src="assets/img/skills.jpg"></h2>
                     <div class="subheading mb-3">Programming Languages & Tools</div>
                     <ul class="list-inline dev-icons">
                         <li class="list-inline-item"><i class="fab fa-html5"></i></li>
@@ -196,11 +222,11 @@
             <!-- Awards-->
             <section class="resume-section" id="awards">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <h2 class="mb-5">Awards & Certifications   <img src="assets/img/award.jpg"></h2>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            CREDIT IN BUSINESS INFORMATION TECHNOLOGY
+                            CREDIT IN DIPLOMA BUSINESS INFORMATION TECHNOLOGY
                         </li>
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
@@ -212,6 +238,9 @@
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                             KENYA CERTIFICATE OF SECONDARY EDUCATION
                         </li>
+
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/OOy764mDtiA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       
                         
                         
 <!--                        <li>-->
@@ -234,5 +263,6 @@
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
+        
     </body>
 </html>
